@@ -46,7 +46,7 @@ Insert an element into the natural tab order using `tabindex="0"`. For example:
 <div tabindex="0">Focus me with the TAB key</div>
 ```
 
-To focus an element, press the `TAB` key or call the element's `focus()` method.
+To focusz an element, press the `TAB` key or call the element's `focus()` method.
 
 <div class="glitch-embed-wrap" style="height: 346px; width: 100%;">
   <iframe
