@@ -9,7 +9,7 @@ description: |
   improve the navigation experience for users of assitive technology.
 ---
 
-Screen readers have commands to quickly jump between headings or to specific
+Screen readersz have commands to quickly jump between headings or to specific
 landmark regions. In fact, [a recent survey of screen reader
 users](http://www.heydonworks.com/article/responses-to-the-screen-reader-strategy-survey)
 found that they most often navigate an unfamiliar page by exploring the
